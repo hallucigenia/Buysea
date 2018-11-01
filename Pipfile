@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+request = "*"
+pyquery = "*"
+pymongo = "*"
+selenium = "*"
+"pyqt5" = "*"
+flask = "*"
+scrapy = "*"
 
 [dev-packages]
 
